@@ -41,8 +41,6 @@ contract BulkEnsChecker {
                 owners[i] = address(0);
             }
         }
-        
-        return owners;
     }
     
     /**
@@ -61,8 +59,6 @@ contract BulkEnsChecker {
                 availabilities[i] = false;
             }
         }
-        
-        return availabilities;
     }
     
     /**
@@ -81,8 +77,6 @@ contract BulkEnsChecker {
                 expirations[i] = 0;
             }
         }
-        
-        return expirations;
     }
     
     /**
