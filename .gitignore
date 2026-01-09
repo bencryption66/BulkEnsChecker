@@ -1,0 +1,6 @@
+node_modules/
+cache/
+artifacts/
+BulkEnsChecker.bin
+package-lock.json
+.env
